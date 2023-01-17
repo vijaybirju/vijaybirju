@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay kumar gangwal</h1>
-<h3 align="center">Web development frontend , Data science with python, AI</h3>
+<h3 align="center"> Data science with python, AI, Machine learning, power BI , SQL, Statistics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaybirju&label=Profile%20views&color=0e75b6&style=flat" alt="vijaybirju" /> </p>
 
