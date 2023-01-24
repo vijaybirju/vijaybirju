@@ -5,11 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaybirju" alt="vijaybirju" /></a> </p>
 
-- 🔭 I’m currently working on **frontend page**
+- 🔭 I’m currently learing **Deep Learning**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m looking for  opportunity 
+-
+- 📫 I am open for work on project related to Data acience 
 
-- 📫 How to reach me **vijaykumar14198@gmail.com**
+- 🚗 How to reach me **vijaykumar14198@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
