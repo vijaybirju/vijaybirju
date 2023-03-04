@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay kumar gangwal</h1>
-<h3 align="center"> Data science with python, AI, Machine learning, power BI , SQL, Statistics </h3>
+<h3 align="center"> Hello, my name is Vijay kumar. I'm a science enthusiast and data science professional from Delhi. I've always been passionate about science, which led me to pursue an undergraduate degree in Physics. During my college days, I was always exploring new things and discovered my love for data science. I was inspired by the endless possibilities it offered and decided to make it my career.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaybirju&label=Profile%20views&color=0e75b6&style=flat" alt="vijaybirju" /> </p>
 
