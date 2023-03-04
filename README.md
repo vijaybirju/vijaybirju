@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [resume](resume)
 
-- ⚡ Fun fact **Well, well, well, look who we have here! It's none other than my hilarious friend who takes a bit of time to warm up to new people. That's right, folks, we've got a secret comedian in our midst! Don't worry if you're feeling a bit shy at first, because once this introvert opens up, you'll be laughing until your sides hurt. So, let's give a warm welcome to our funny friend who just needs a little time to shine!**
+- ⚡ Fun fact **Hey friend, did you know that I'm a bit of a funny character? Although, it might take me a little while to warm up to new people because I'm a bit of an introvert. But once I feel comfortable around someone, I can't help but share my quirky sense of humor. I guess you could say that my jokes are like fine wine, they get better with time! It's not always easy being an introverted comedian, but it's definitely worth it when I get to make people laugh. So, what do you say? Are you ready for some laughs?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
