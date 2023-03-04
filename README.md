@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [resume](resume)
 
-- ⚡ Fun fact **I funny if i become opend with you. It take time because i am interovert too**
+- ⚡ Fun fact **Well, well, well, look who we have here! It's none other than my hilarious friend who takes a bit of time to warm up to new people. That's right, folks, we've got a secret comedian in our midst! Don't worry if you're feeling a bit shy at first, because once this introvert opens up, you'll be laughing until your sides hurt. So, let's give a warm welcome to our funny friend who just needs a little time to shine!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
