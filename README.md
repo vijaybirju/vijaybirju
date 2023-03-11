@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Vijaykumar14198@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFbjqjoX0U/D-yPLTXh-Xnk5TMeHWD56w/edit?utm_content=DAFbjqjoX0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](resume)
 
 - ⚡ Fun fact **Hey friend, did you know that I'm a bit of a funny character? Although, it might take me a little while to warm up to new people because I'm a bit of an introvert. But once I feel comfortable around someone, I can't help but share my quirky sense of humor. I guess you could say that my jokes are like fine wine, they get better with time! It's not always easy being an introverted comedian, but it's definitely worth it when I get to make people laugh. So, what do you say? Are you ready for some laughs?**
 
