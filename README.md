@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+21128
+Fork on GitHub
+6569
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+markdown
 <h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">A passionate DataNerd from India</h3>
 
@@ -18,8 +34,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vijaydatanerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijaydatanerd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-kumar-gangwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-kumar-gangwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://kaggle.com/vijaykumarphy068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijaykumarphy068" height="30" width="40" /></a>
-<a href="https://instagram.com/vjgangwal2731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vjgangwal2371" height="30" width="40" /></a>
+<a href="https://instagram.com/vjgangwal2371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vjgangwal2371" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vijaykumar14198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijaykumar14198" height="30" width="40" /></a>
 </p>
 
@@ -31,3 +48,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaybirju&show_icons=true&locale=en" alt="vijaybirju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaybirju&" alt="vijaybirju" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
