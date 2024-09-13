@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/vijaydatanerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijaydatanerd" height="30" width="40" /></a>
 <a href="https://kaggle.com/vijaykumarphy068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijaykumarphy068" height="30" width="40" /></a>
-<a href="https://instagram.com/vjgangwal2371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vjgangwal2371" height="30" width="40" /></a>
+<a href="https://instagram.com/vjgangwal2731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vjgangwal2371" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vijaykumar14198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijaykumar14198" height="30" width="40" /></a>
 </p>
 
