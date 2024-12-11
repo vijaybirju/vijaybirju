@@ -1,5 +1,29 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>
-<h3 align="center">A passionate DataNerd from India</h3>
+<h3 align="center">A passionate Data Nerd from India with a strong drive to uncover insights and build impactful solutions through data. With hands-on experience in Data Analysis, Machine Learning, and Generative AI, I love solving complex problems and turning data into actionable strategies.
+</h3>
+
+### 🌟 About Me:
+- 💻 Currently working as a **Data Analyst** at a fast-paced startup, **Agraga**.
+- 🔬 Focused on **Data Science**, **MLOps**, and **NLP** to drive business decisions and efficiencies.
+- 🤖 Built **LLM-powered Chat Assistants** for seamless information retrieval and task automation.
+- 📊 Skilled in creating dashboards using **Power BI** and automating pipelines to streamline data workflows.
+- 🏆 Kaggle Expert: Ranked in the **Top 7% globally** in the AMP® Parkinson's Progression Prediction competition.
+- 🎯 Proficient in **Python**, **SQL**, and data visualization.
+
+### 🔧 Tools & Technologies:
+- Programming: **Python**, **SQL**
+- Data Visualization: **Power BI**, **Matplotlib**, **Seaborn**
+- Machine Learning: **Scikit-learn**, **TensorFlow**, **XGBoost**
+- Generative AI: **OpenAI APIs**, **LangChain**
+- Others: **AWS**, **Git**, **APIs**
+
+### 🚀 Current Projects:
+- **Production-Grade RAG App**: Building a PDF-to-answers system leveraging vector stores and LLMs.
+- **Predictive Analytics**: Deploying machine learning models to forecast sales and optimize operations.
+
+### 🌱 Learning:
+- Deepening expertise in **Generative AI** and **Large Language Models**.
+- Exploring **MLOps** and **Cloud Deployments** to scale AI solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaybirju&label=Profile%20views&color=0e75b6&style=flat" alt="vijaybirju" /> </p>
 
